@@ -1,0 +1,20 @@
+{
+  "name": "abbas_project09_countdown_timer",
+  "version": "1.0.0",
+  "description": "A countdown timer tool built with TypeScript and Node.js, utilizing inquirer for setting timers.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbas asad",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.6.0"
+  }
+}
